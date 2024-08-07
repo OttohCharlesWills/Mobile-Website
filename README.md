@@ -1,3 +1,10 @@
+Firstly Install React as shown below.
+Secondly install react-icons. In order to this open your terminal and type **npm i react-icons**.
+Also Install react-scroll. To do this Type **npm i react-scroll**.
+Also Install react-responsive-carousel. To do this Type **npm i react-responsive-carousel**.
+Do all this stated above and below for this code to work.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
